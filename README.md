@@ -1,21 +1,28 @@
-# job_hunting
+<h1 align="center"><samp>job_exp</samp></h1>
 
-## 2023
-- 2023/10/18  杭州网易雷火科技有限公司
-  > 内推，约了面试后被放鸽子了，HR杳无音讯(~~垃圾网易~~)
-  
-- 2023/11/05  江西联创宏声电子有限公司
-  
-  > 做HUAWEI耳机的。先让我做LeetCode算法，我本来打算刷几道试试然后大显身手
-  >
-  > 结果给我面试的人是HUAWEI的，什么也不懂，居然说我不懂，并且以我加班意愿不强为由拒绝了(~~垃圾HUAWEI~~)
-- 2023/11/06  深圳中科飞测科技股份有限公司
-  > - 经历了三轮面试，最后通过了，问什么时候可以入职，最后又说公司想看看有没有更合适的
-  > 
-  > - 这个我觉得是可以接受的，但是面试的时间居然要花费1个月的时间，为了准备这个面试，花了1个月的时间，最后还被拒绝了，为什么不在前面几轮的面试中直接拒绝，真的纯傻逼
-  >
-  > - 浪费时间的CS公司，每一轮面试都要花费一个星期的时间出结果，主动去问还不回复你
-  >
-  > - 在知乎的回答中得知，这家公司会在你不知道的情况下偷偷打电话去你简历上写的原公司以侵犯隐私的行为对你进行背调
-  
-- 2023/12/08 入职EVR
+<h3 align="center"><samp>2023</samp></h3>
+
+<details>
+  <summary><samp>2023/10/18 Hangzhou NetEase Leihuo Technology Co., Ltd. </samp></summary>
+  <br>
+  <p><samp>&nbsp;&nbsp;内推，最后才得知是某软通动力的外包，在这样被蒙蔽的情况下居然还被HR放鸽子了。</samp></p>
+</details>
+
+<details>
+  <summary><samp>2023/11/05 Jiangxi Lianchuang Hongsheng Electronic Co., Ltd. </samp></summary>
+  <br>
+  <p><samp>&nbsp;&nbsp;一家和Huawei合作做耳机的厂。面试的过程很不愉快，Huawei的员工没问任何专业的问题，最后不敢当面拒绝我，挂断电话后才WeChat上以本鼠鼠不懂这个行业为由拒绝。</samp></p>
+</details> 
+
+<details>
+  <summary><samp>2023/11/06  Shenzhen Zhongke Feitest Technology Co., Ltd. </samp></summary>
+  <br>
+  <p><samp>&nbsp;&nbsp;面试经历三轮，最后还是被拒绝了。HR和经理很有礼貌，但是面试的总时长持续了3个星期。我从未见过一家公司针对一个面试者在经历多轮面试的情况下，还如此挥霍面试者的时间。在某知乎上，知乎用户对这家公司的评价，"在面试者不知情的情况下，偷偷打电话给前公司进行背调。"因此，对于这家公司持续将近1个月的面试似乎并不奇怪了。非常不礼貌的行为呢！</samp></p>
+</details> 
+
+<details>
+  <summary><samp>2023/12/08 Dongguan Evervictory Electronic Co., Ltd.</samp></summary>
+  <br>
+  <p><samp>&nbsp;&nbsp;入职EVR，工资很低，不过工作很轻松。在2023年被骗钱了，只能在这种养老公司里吃低保混日子了。</samp></p>
+</details>
+
